@@ -56,7 +56,7 @@ local Y1 = display.contentHeight*1/2
 local Y2 = display.contentHeight*5.5/7
 
 local userAnswer
-local textTouched = false
+local textTouched = true
 
 -----------------------------------------------------------------------------------------
 --LOCAL FUNCTIONS
